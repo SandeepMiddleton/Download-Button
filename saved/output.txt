@@ -1,0 +1,658 @@
+Main URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Login URL: 
+User name: 0769046678
+Decrypted Password: Sr23062007
+====================================================================================================
+Main URL: android://FHwISDRP8QkzWJDJYf5fHHjUslpbGXQFi77X0zXEhzyR0LgQuuASY2ylcEpkdaDLr58hwyliTpIqSj_aa_l5vQ==@com.moneybookers.skrillpayments/
+Login URL: 
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007$
+====================================================================================================
+Main URL: android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/
+Login URL: 
+User name: ultrakillowner
+Decrypted Password: Sr23062007
+====================================================================================================
+Main URL: https://lemehost.com/site/signup
+Login URL: https://lemehost.com/site/signup
+User name: aady4810@gmail.com
+Decrypted Password:  adiadiadi2007
+Creation date: 2021-11-03 10:20:16.448595
+Last Used: 2021-11-03 10:20:00.998179
+====================================================================================================
+Main URL: https://steamcommunity.com/login/home/
+Login URL: https://steamcommunity.com/login/home/
+User name: sandeep1234513
+Decrypted Password: Sr23062007
+Creation date: 2021-11-03 20:30:02.561920
+Last Used: 2021-11-03 20:29:32.719791
+====================================================================================================
+Main URL: https://panel.pointofhosting.com/phpmyadmin/index.php
+Login URL: https://panel.pointofhosting.com/phpmyadmin/index.php
+User name: root
+Decrypted Password: !07ww3pPj1P.YD
+Creation date: 2021-11-21 18:44:34.203550
+Last Used: 2021-11-21 18:44:31.209219
+====================================================================================================
+Main URL: https://server.pro/signup
+Login URL: 
+User name: suciurobertmihai2007@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-11-22 19:44:32.180649
+Last Used: 2021-11-22 19:44:30.690589
+====================================================================================================
+Main URL: https://ultra-h.com/login
+Login URL: https://ultra-h.com/login
+User name: NewTon05
+Decrypted Password: Sr23062007
+Creation date: 2021-11-23 18:28:37.326843
+Last Used: 2021-11-23 18:28:22.202125
+====================================================================================================
+Main URL: https://www.net2ftp.com/index.php
+Login URL: https://www.net2ftp.com/index.php
+User name: server737_newton
+Decrypted Password: av643hsbqr
+Creation date: 2021-11-23 18:30:59.062199
+Last Used: 2021-11-23 18:30:55.616030
+====================================================================================================
+Main URL: https://vps.traterhost.com:4083/
+Login URL: https://vps.traterhost.com:4083/act=login
+User name: pointofhosting@gmail.com
+Decrypted Password: !07ww3pPj1P.YD
+Creation date: 2021-11-17 14:18:57.164751
+Last Used: 2021-11-24 14:32:02.098458
+====================================================================================================
+Main URL: https://scalacube.com/cp
+Login URL: https://scalacube.com/cp
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-11-24 19:24:41.741595
+Last Used: 2021-11-24 19:24:38.695464
+====================================================================================================
+Main URL: https://superleague.auth0.com/login
+Login URL: https://superleague.auth0.com/login
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-11-24 19:35:07.155091
+Last Used: 2021-11-24 19:35:00.811782
+====================================================================================================
+Main URL: https://panel.freemcserver.net/user/register
+Login URL: https://panel.freemcserver.net/user/register
+User name: Sandeep12345678
+Decrypted Password: Sr23062007
+Creation date: 2021-11-24 19:52:58.730475
+Last Used: 2021-11-24 19:53:00.721603
+====================================================================================================
+Main URL: https://panel.pointofhosting.com/auth/login
+Login URL: https://panel.pointofhosting.com/auth/login
+User name: Sandeep
+Decrypted Password: Sr23062007
+Creation date: 2021-11-21 18:10:02.773090
+Last Used: 2021-12-13 15:16:44.838853
+====================================================================================================
+Main URL: https://virtualizorpanel.traterhost.com:4083/
+Login URL: https://virtualizorpanel.traterhost.com:4083/act=login
+User name: pointofhosting@gmail.com
+Decrypted Password: 4im8E1xzDSDvo7yMYTo4
+Creation date: 2021-12-02 20:38:03.305699
+Last Used: 2021-12-15 19:10:12.110107
+====================================================================================================
+Main URL: https://forum.gtanet.ro/
+Login URL: https://forum.gtanet.ro/index.php
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-12-15 19:17:26.003579
+Last Used: 2021-12-15 19:17:23.925907
+====================================================================================================
+Main URL: https://learn.wellcode.ro/register
+Login URL: https://learn.wellcode.ro/register
+User name: SandeepS4dN3ss
+Decrypted Password: Sr23062007
+Creation date: 2021-12-16 14:06:05.701897
+Last Used: 2021-12-20 12:39:47.901607
+====================================================================================================
+Main URL: https://webwave.ro/inregistrare
+Login URL: 
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-12-21 16:55:37.755132
+Last Used: 2021-12-21 16:55:22.305725
+====================================================================================================
+Main URL: https://www.nixware.cc/
+Login URL: https://www.nixware.cc/login/login
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-01-04 17:59:34.826651
+Last Used: 2022-01-04 17:59:31.232779
+====================================================================================================
+Main URL: https://cheater.fun/
+Login URL: https://cheater.fun/
+User name: NewTonSandeep
+Decrypted Password: Sr23062007
+Creation date: 2022-01-04 20:04:55.752968
+Last Used: 2022-01-04 20:04:52.008768
+====================================================================================================
+Main URL: http://localhost/Site/register.php
+Login URL: http://localhost/Site/includes/register.inc.php
+User name: SandeepBarosanul
+Decrypted Password: Sr23062007
+Creation date: 2022-01-10 11:51:24.432223
+Last Used: 2022-01-10 11:51:21.837072
+====================================================================================================
+Main URL: http://localhost/Site/index.php
+Login URL: http://localhost/Site/includes/login.inc.php
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-01-10 11:52:59.819959
+Last Used: 2022-01-10 11:54:11.725634
+====================================================================================================
+Main URL: http://localhost/Site/register.php
+Login URL: http://localhost/Site/includes/register.inc.php
+User name: SandeepMaCheama
+Decrypted Password: parolamea
+Creation date: 2022-01-10 11:57:02.535673
+Last Used: 2022-01-10 12:02:13.038844
+====================================================================================================
+Main URL: http://localhost/Site/index.php
+Login URL: http://localhost/Site/includes/login.inc.php
+User name: email@gmail.com
+Decrypted Password: parolamea
+Creation date: 2022-01-10 12:02:45.831172
+Last Used: 2022-01-10 12:02:39.382734
+====================================================================================================
+Main URL: https://insanitycheats.com/login/login
+Login URL: https://insanitycheats.com/register/register
+User name: Sandeep1234
+Decrypted Password: Sr23062007
+Creation date: 2022-01-11 11:02:39.560473
+Last Used: 2022-01-11 11:02:36.237771
+====================================================================================================
+Main URL: https://www.freelancer.com/u/seaanddream
+Login URL: https://www.freelancer.com/
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-01-15 12:30:03.362660
+Last Used: 2022-01-15 12:30:46.022984
+====================================================================================================
+Main URL: https://learn.wellcode.com/register
+Login URL: https://learn.wellcode.com/register
+User name: phplearn
+Decrypted Password: Sr23062007
+Creation date: 2022-01-17 18:18:03.570948
+Last Used: 2022-01-17 18:17:58.845239
+====================================================================================================
+Main URL: https://signup.socketlabs.com/step-1
+Login URL: https://signup.socketlabs.com/
+User name: pointof
+Decrypted Password: wfApytn3zmAJ!F6
+Creation date: 2022-01-20 15:30:55.979554
+Last Used: 2022-01-20 15:30:55.979554
+====================================================================================================
+Main URL: https://dashboard.tawk.to/login
+Login URL: https://dashboard.tawk.to/login
+User name: pointofhosting@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-02-03 13:58:51.561418
+Last Used: 2022-02-03 13:58:48.913540
+====================================================================================================
+Main URL: https://www.paypal.com/ro/signin
+Login URL: https://www.paypal.com/signin
+User name: pointofhosting@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-11-09 18:40:27.212819
+Last Used: 2022-02-07 00:07:46.495424
+====================================================================================================
+Main URL: https://webhost.traterhost.com:2222/
+Login URL: https://webhost.traterhost.com:2222/CMD_LOGIN
+User name: pointof
+Decrypted Password: tNHOmCCs
+Creation date: 2021-11-09 19:04:48.762769
+Last Used: 2022-02-07 16:40:04.085011
+====================================================================================================
+Main URL: https://webhost.traterhost.com:2222/reseller/create-user
+Login URL: 
+User name: pointofhosting@gmail.com
+Decrypted Password: yeldevNJ61
+Creation date: 2022-02-07 17:46:05.481712
+Last Used: 2022-02-07 17:45:56.203152
+====================================================================================================
+Main URL: https://forum.old-times.ro/
+Login URL: https://forum.old-times.ro/index.php
+User name: RobiBobi
+Decrypted Password: Sr23062007
+Creation date: 2022-02-08 19:18:11.300942
+Last Used: 2022-02-08 19:18:44.371454
+====================================================================================================
+Main URL: https://eduboom.ro/registration
+Login URL: https://eduboom.ro/registration
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-02-23 19:24:54.395286
+Last Used: 2022-02-23 19:25:09.088790
+====================================================================================================
+Main URL: https://www.libris.ro/auth/register.jsp
+Login URL: https://www.libris.ro/auth/register.jsp
+User name: RobertSuciuMihai
+Decrypted Password: Sr23062007
+Creation date: 2022-03-09 18:35:41.948765
+Last Used: 2022-03-09 18:36:22.123782
+====================================================================================================
+Main URL: android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/
+Login URL: 
+User name: suciuinv@gmail.com
+Decrypted Password: sa01051972
+Last Used: 2022-04-14 07:22:22.605128
+====================================================================================================
+Main URL: https://competent-wescoff.141-95-14-197.plesk.page/login_up.php
+Login URL: https://competent-wescoff.141-95-14-197.plesk.page/login_up.php
+User name: root
+Decrypted Password: .9f8IxTXY61]qs
+Creation date: 2022-04-15 21:20:09.479012
+Last Used: 2022-04-15 21:19:58.978403
+====================================================================================================
+Main URL: https://store.steampowered.com/join/completesignup
+Login URL: https://store.steampowered.com/join/completesignup
+User name: robibobi141516
+Decrypted Password: Sr23062007
+Creation date: 2022-04-17 21:06:44.394463
+Last Used: 2022-04-17 21:06:38.346436
+====================================================================================================
+Main URL: https://panel.ultrakill.ro/auth/login
+Login URL: https://panel.ultrakill.ro/auth/login
+User name: csgo@ultrakill.ro
+Decrypted Password: KB77^@wZS@Bp
+Creation date: 2022-04-18 21:16:01.253043
+Last Used: 2022-04-18 21:15:56.755330
+====================================================================================================
+Main URL: https://panel.orangehost.xyz/auth/login
+Login URL: https://panel.orangehost.xyz/auth/login
+User name: pointofhosting@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-04-20 07:03:48.197164
+Last Used: 2022-04-20 07:03:46.089152
+====================================================================================================
+Main URL: https://forum.ultrakill.ro/index.php
+Login URL: https://forum.ultrakill.ro/index.php
+User name: Suciu Robert
+Decrypted Password: Sr23062007
+Creation date: 2022-04-21 19:04:59.222660
+Last Used: 2022-04-21 19:04:28.100545
+====================================================================================================
+Main URL: https://profile.w3schools.com/sign-up
+Login URL: https://profile.w3schools.com/sign-up
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007$
+Creation date: 2022-05-01 21:25:53.112689
+Last Used: 2022-05-01 21:26:12.329984
+====================================================================================================
+Main URL: https://dracopanel.com/signup
+Login URL: https://dracopanel.com/signup
+User name: RobiBobi
+Decrypted Password: Sr23062007
+Creation date: 2022-05-04 06:56:37.957580
+Last Used: 2022-05-04 19:04:37.465920
+====================================================================================================
+Main URL: https://pfa.solo.ro/register/account
+Login URL: https://pfa.solo.ro/register/account
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-05-12 21:38:22.723861
+Last Used: 2022-05-12 21:38:06.699667
+====================================================================================================
+Main URL: https://demo-hs.gpswox.com/password/reset/0c689b5e331b265b442e582de44425f0c630af48db9f89d78d3bb1f7e73c72f5
+Login URL: https://demo-hs.gpswox.com/password/reset/0c689b5e331b265b442e582de44425f0c630af48db9f89d78d3bb1f7e73c72f5
+User name: suciurobert05@gmail.com
+Decrypted Password: SA01051972
+Creation date: 2022-05-13 22:58:43.545306
+Last Used: 2022-05-13 22:58:48.309420
+====================================================================================================
+Main URL: http://141.95.14.225/auth/login
+Login URL: http://141.95.14.225/auth/login
+User name: kenyhost@gmail.com
+Decrypted Password: !xbYf$1bRRB1
+Creation date: 2022-05-16 17:37:27.904961
+Last Used: 2022-05-16 18:01:48.755358
+====================================================================================================
+Main URL: https://webhost.traterhost.com/login_up.php
+Login URL: https://webhost.traterhost.com/login_up.php
+User name: arishosting
+Decrypted Password: Kjb@emkfo1qiW1S0
+Creation date: 2022-05-16 18:30:39.849590
+Last Used: 2022-05-16 18:30:27.936893
+====================================================================================================
+Main URL: https://accounts.google.com/signin/v2/challenge/pwd
+Login URL: https://accounts.google.com/signin/v2/challenge/password/empty
+User name: suciuinv@gmail.com
+Decrypted Password: 12345678
+Creation date: 2022-05-13 23:05:02.349336
+Last Used: 2022-05-17 06:53:50.137881
+====================================================================================================
+Main URL: https://www.udemy.com/join/signup-popup/
+Login URL: https://www.udemy.com/join/signup-popup/
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-05-19 18:29:34.543063
+Last Used: 2022-05-19 18:29:29.217900
+====================================================================================================
+Main URL: https://webhost.traterhost.com/login_up.php
+Login URL: https://webhost.traterhost.com/login_up.php
+User name: orangehost
+Decrypted Password: qV~xL4dtRz62ahzi
+Creation date: 2022-04-18 15:38:42.788933
+Last Used: 2022-05-23 17:34:59.839798
+====================================================================================================
+Main URL: https://traterhost.com/billing/index.php
+Login URL: https://traterhost.com/billing/dologin.php
+User name: pointofhosting@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2021-11-15 18:46:01.201600
+Last Used: 2022-05-24 16:04:33.111203
+====================================================================================================
+Main URL: https://account.skrill.com/wallet/account/reset-password
+Login URL: https://account.skrill.com/wallet/account/
+User name: 
+Decrypted Password: Sr23062007$
+Creation date: 2022-06-02 18:06:05.081029
+Last Used: 2022-06-02 18:06:01.353783
+====================================================================================================
+Main URL: https://galacticcraft.ro/forum/view/8-afiliere/
+Login URL: https://galacticcraft.ro/index.php
+User name: Suciu Robert
+Decrypted Password: Sr23062007
+Creation date: 2022-06-05 21:10:45.931226
+Last Used: 2022-06-05 21:10:43.307468
+====================================================================================================
+Main URL: https://galacticcraft.ro/index.php
+Login URL: https://galacticcraft.ro/index.php
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-06-05 21:11:00.867398
+Last Used: 2022-06-05 21:10:58.383377
+====================================================================================================
+Main URL: https://cloud.smartbill.ro/inregistrare-cont/smartsearch/
+Login URL: https://cloud.smartbill.ro/inregistrare-cont/smartsearch/
+User name: adelinpetrisor05@gmail.com
+Decrypted Password: SA01051972
+Creation date: 2022-05-16 18:46:50.300111
+Last Used: 2022-06-09 09:18:19.098239
+====================================================================================================
+Main URL: https://baehost.com/cart.php
+Login URL: https://baehost.com/cart.php
+User name: panel.orangehost.xyz
+Decrypted Password: ionut123
+Creation date: 2022-06-12 00:02:53.920734
+Last Used: 2022-06-12 00:02:40.981388
+====================================================================================================
+Main URL: https://altex.ro/cos-cumparaturi/cont/
+Login URL: https://altex.ro/cos-cumparaturi/cont/
+User name: suciu_gx2@yahoo.com
+Decrypted Password: sa01051972
+Creation date: 2022-06-26 18:59:44.014147
+Last Used: 2022-06-26 18:59:38.910408
+====================================================================================================
+Main URL: https://auctions.ipv4.global/auth/sign-up
+Login URL: https://auctions.ipv4.global/auth/sign-up
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-06-28 17:28:48.516989
+Last Used: 2022-06-28 17:28:44.219093
+====================================================================================================
+Main URL: https://www.epicgames.com/id/login/reset-password
+Login URL: https://www.epicgames.com/id/login/reset-password
+User name: 
+Decrypted Password: SA01051972$$
+Creation date: 2022-06-30 18:36:30.025409
+Last Used: 2022-06-30 18:36:26.729773
+====================================================================================================
+Main URL: https://auth.riotgames.com/login
+Login URL: 
+User name: N3wT0nS4dN3ss
+Decrypted Password: Sr23062007
+Creation date: 2022-07-01 00:28:10.801253
+Last Used: 2022-07-01 00:28:04.429861
+====================================================================================================
+Main URL: https://my.account.sony.com/central/signin/
+Login URL: https://my.account.sony.com/central/signin/
+User name: suciurobertmihai2007@gmail.com
+Decrypted Password: SR23062007
+Creation date: 2022-07-01 02:41:29.185166
+Last Used: 2022-07-01 02:40:41.967364
+====================================================================================================
+Main URL: https://signup.live.com/signup
+Login URL: https://signup.live.com/signup
+User name: ytmadryx@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-07-02 22:52:47.505017
+Last Used: 2022-07-02 22:52:40.154999
+====================================================================================================
+Main URL: https://auth.riotgames.com/login
+Login URL: https://auth.riotgames.com/login
+User name: fademain2007
+Decrypted Password: Sr23062007
+Creation date: 2022-07-04 07:22:29.785514
+Last Used: 2022-07-04 07:22:22.519646
+====================================================================================================
+Main URL: http://192.168.0.1/m/index.html
+Login URL: http://192.168.0.1/m/index.html
+User name: 
+Decrypted Password: admin
+Creation date: 2022-03-25 18:19:18.577914
+Last Used: 2022-07-10 14:48:14.766589
+====================================================================================================
+Main URL: https://manage.cookiebot.com/en/signup
+Login URL: 
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-07-17 12:33:34.756135
+Last Used: 2022-07-17 12:33:25.789796
+====================================================================================================
+Main URL: https://manage.cookiebot.com/en/signup
+Login URL: 
+User name: ytmadryx@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-07-17 13:26:27.758523
+Last Used: 2022-07-17 13:34:28.018678
+====================================================================================================
+Main URL: https://www.vola.ro/flightDetails/get/bd14df8cd62bc0c68812e59d51921f2c/NDdhMmRjYjIyZDg3MWM2M2FhYTRjYWY3NWJkYjNjOGM4YWQ0MWY0YQ/RGF0YUFjcXVpc2l0aW9u/ZWZiZGM1MDZjMDdhYmU5MGM1ZGY3NzQyNGMzZjkyOGUyMGY1NTA4MA/MWI2ZTA0NjhhZGJjNzQxZThmZWU4MGY0OGQ3MGI1MjkyOGVkOWVkYQ
+Login URL: https://www.vola.ro/
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007$
+Creation date: 2022-07-17 15:38:50.910215
+Last Used: 2022-07-17 15:38:48.178625
+====================================================================================================
+Main URL: https://sohodragon.recurly.com/account/login
+Login URL: https://sohodragon.recurly.com/account/login
+User name: suciurobert05@gmail.com
+Decrypted Password: Sa01051972¬
+Creation date: 2022-07-20 16:42:59.064756
+Last Used: 2022-07-20 16:42:56.380944
+====================================================================================================
+Main URL: https://store.steampowered.com/join/completesignup
+Login URL: https://store.steampowered.com/join/completesignup
+User name: robifivemcsgo
+Decrypted Password: Sr23062007
+Creation date: 2022-07-21 10:52:01.142288
+Last Used: 2022-07-21 10:51:57.177778
+====================================================================================================
+Main URL: https://orchidcheats.com/register/register
+Login URL: https://orchidcheats.com/register/register
+User name: robifivemcsgo
+Decrypted Password: Sr23062007
+Creation date: 2022-07-21 11:24:32.801442
+Last Used: 2022-07-21 11:24:30.078244
+====================================================================================================
+Main URL: https://botlucky.com/community/register/
+Login URL: https://botlucky.com/community/register/register
+User name: robidiscord
+Decrypted Password: Sr23062007
+Creation date: 2022-07-21 11:42:03.461516
+Last Used: 2022-07-21 11:42:00.296218
+====================================================================================================
+Main URL: https://auth.emag.ro/user/login
+Login URL: https://auth.emag.ro/user/login
+User name: suciu_gx2@yahoo.com
+Decrypted Password: sa01051972
+Creation date: 2021-12-16 16:50:50.303927
+Last Used: 2022-07-25 14:29:32.296446
+====================================================================================================
+Main URL: https://ggez.ro/index.php
+Login URL: https://ggez.ro/index.php
+User name: robifivemcsgo
+Decrypted Password: Parolamea123
+Creation date: 2022-07-25 17:15:35.431338
+Last Used: 2022-07-25 17:15:31.169783
+====================================================================================================
+Main URL: http://localhost/PHP-Login-System-master/register/
+Login URL: http://localhost/PHP-Login-System-master/register/includes/register.inc.php
+User name: admin
+Decrypted Password: Parolamea123
+Creation date: 2022-07-25 17:34:43.372863
+Last Used: 2022-07-25 17:40:56.198482
+====================================================================================================
+Main URL: https://discord.com/login
+Login URL: https://discord.com/login
+User name: adelinpetrisor05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-02-16 22:20:48.594441
+Last Used: 2022-07-31 06:06:02.949487
+====================================================================================================
+Main URL: https://account.protonvpn.com/signup
+Login URL: https://account.protonvpn.com/
+User name: robifivemcsgo
+Decrypted Password: Sr23062007
+Creation date: 2022-08-01 11:03:32.804577
+Last Used: 2022-08-01 11:03:29.823947
+====================================================================================================
+Main URL: https://discord.com/channels/@me/946359317903327262
+Login URL: https://discord.com/channels/@me/946359317903327262
+User name: AlexRP
+Decrypted Password: Sr23062007
+Creation date: 2022-07-31 06:08:47.733253
+Last Used: 2022-08-01 11:30:44.342760
+====================================================================================================
+Main URL: https://lunatiqhost.com/store/register.php
+Login URL: https://lunatiqhost.com/store/register.php
+User name: ytmadryx@gmail.com
+Decrypted Password: Parolamea123
+Creation date: 2022-07-25 17:11:11.123844
+Last Used: 2022-08-01 20:05:18.599731
+====================================================================================================
+Main URL: https://novihacks.com/
+Login URL: https://novihacks.com/register/register
+User name: NewTonSandeep
+Decrypted Password: Sr23062007
+Creation date: 2022-01-04 17:57:14.809052
+Last Used: 2022-08-03 14:27:29.412176
+====================================================================================================
+Main URL: https://fs7.formsite.com/form_app/FormSite
+Login URL: https://fs7.formsite.com/form_app/FormSite
+User name: suciurobert05@gmail.com
+Decrypted Password: 1234567
+Creation date: 2022-08-03 15:12:55.436670
+Last Used: 2022-08-03 15:12:52.185006
+====================================================================================================
+Main URL: https://www.facebook.com/
+Login URL: https://www.facebook.com/login/
+User name: backafacere@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-08-04 18:31:11.763603
+Last Used: 2022-08-04 18:31:06.244237
+====================================================================================================
+Main URL: https://cheater.fun/
+Login URL: https://cheater.fun/
+User name: robifivemcsgo
+Decrypted Password: Sr23062007
+Creation date: 2022-08-08 16:49:09.123878
+Last Used: 2022-08-08 16:49:05.767867
+====================================================================================================
+Main URL: https://discord.com/login
+Login URL: https://discord.com/login
+User name: ogindaveceu@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-08-10 17:44:41.253646
+Last Used: 2022-08-10 17:45:08.446529
+====================================================================================================
+Main URL: https://www.udemy.com/join/signup-popup/
+Login URL: https://www.udemy.com/join/signup-popup/
+User name: ytmadryx@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-08-17 11:28:17.326547
+Last Used: 2022-08-17 11:28:10.680128
+====================================================================================================
+Main URL: https://steamcommunity.com/login/home/
+Login URL: https://steamcommunity.com/login/home/
+User name: robibobi141516
+Decrypted Password: Sr23062007
+Creation date: 2022-04-17 21:07:49.438688
+Last Used: 2022-08-18 08:12:25.252740
+====================================================================================================
+Main URL: https://traterhost.com/billing/index.php
+Login URL: https://traterhost.com/billing/dologin.php
+User name: ytmadryx@gmail.com
+Decrypted Password: Parolamea123
+Creation date: 2022-08-20 21:47:55.538678
+Last Used: 2022-08-20 21:47:53.103312
+====================================================================================================
+Main URL: https://www.trustpilot.com/
+Login URL: 
+User name: suciurobert05@gmail.com
+Decrypted Password: 
+Creation date: 2022-08-21 22:25:40.088459
+Last Used: 2022-08-21 22:25:37.739849
+====================================================================================================
+Main URL: https://discord.com/login
+Login URL: https://discord.com/login
+User name: suciurobert05@gmail.com
+Decrypted Password: SA01051972
+Creation date: 2021-11-22 18:56:08.174843
+Last Used: 2022-08-23 20:42:22.231732
+====================================================================================================
+Main URL: https://www.netflix.com/ro-en/login
+Login URL: https://www.netflix.com/ro-en/login
+User name: suciuinv@gmail.com
+Decrypted Password: sa01051972
+Creation date: 2022-06-14 14:20:36.293490
+Last Used: 2022-08-24 16:06:39.471493
+====================================================================================================
+Main URL: https://www.paypal.com/signin
+Login URL: https://www.paypal.com/signin
+User name: suciurobert05@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-08-04 07:43:56.185186
+Last Used: 2022-08-27 22:14:50.604025
+====================================================================================================
+Main URL: https://discord.com/login
+Login URL: https://discord.com/login
+User name: ytmadryx@gmail.com
+Decrypted Password: Sr23062007
+Creation date: 2022-04-18 15:41:19.618346
+Last Used: 2022-08-27 22:36:35.992775
+====================================================================================================
+Main URL: https://www.paypal.com/signin
+Login URL: https://www.paypal.com/signin
+User name: adelinpetrisor05@gmail.com
+Decrypted Password: Sr23062007$$
+Creation date: 2022-06-02 08:50:10.857713
+Last Used: 2022-08-28 11:33:24.747924
+====================================================================================================
+Main URL: https://github.com/login
+Login URL: https://github.com/session
+User name: backafacere@gmail.com
+Decrypted Password: 23062007r$
+Creation date: 2021-11-09 15:10:00.431774
+Last Used: 2022-09-03 05:56:15.565897
+====================================================================================================
+Main URL: https://discord.com/login
+Login URL: https://discord.com/login
+User name: geamusa181@gmail.com
+Decrypted Password: Sr23062007$$
+Creation date: 2022-09-11 15:06:18.806464
+Last Used: 2022-09-11 15:06:14.365724
+====================================================================================================
+Main URL: https://discohook.org/
+Login URL: 
+User name: 
+Decrypted Password: https://discord.com/api/webhooks/1018542035625595020/J2A1MMNuHD4BlDTuDnCNWfjZoMAkbVDab4xJ1ScKshz1CUyrFOTEO49K3AFu_UtiWUUl
+Creation date: 2022-09-11 15:08:37.066883
+Last Used: 2022-09-11 15:27:01.257037
+====================================================================================================
